@@ -2,7 +2,7 @@
 
 Libraries used:
 
-<br>Tkinter
+Tkinter
 <br>pyautogui
 <br>PIL
 
