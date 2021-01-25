@@ -1,5 +1,7 @@
 # PyPaint
 
+by Alberto Alvarez (Doral Academy Preparatory High School, 11th grade)
+
 Libraries used:
 
 Tkinter
