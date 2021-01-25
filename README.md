@@ -1,1 +1,5 @@
 # PyPaint
+
+Libraries used:
+
+Tkinter
