@@ -6,6 +6,6 @@ Libraries used:
 
 Tkinter
 <br>PyAutoGUI
-<br>PIL
+<br>PIL/Pillow
 
 This is my CSP project for the 2020-2021 school year
