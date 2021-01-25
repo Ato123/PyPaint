@@ -1,6 +1,6 @@
 # PyPaint
 
-by Alberto Alvarez (Doral Academy Preparatory High School, 11th grade)
+<h3>by Alberto Alvarez</h3>
 
 Libraries used:
 
